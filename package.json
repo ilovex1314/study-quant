@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "lesson:dev": "npm --prefix apps/interactive-lessons run dev",
+    "lesson:build": "npm --prefix apps/interactive-lessons run build",
+    "lesson:test": "npm --prefix apps/interactive-lessons run test"
+  }
+}
